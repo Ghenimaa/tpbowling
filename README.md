@@ -18,8 +18,6 @@ Spare :
 
 Le joueur abat 6 quilles au premier lancer, puis abat les 4 quilles restantes. Il a donc fait un spare au premier tour. Ses points sont comptés ainsi : 1° tour : 10 points plus prochaine boule du tour suivant (5 quilles) = 15 points. S’il envoie toutes les autres quilles dans la rigole, son score final sera de 15 + 5 points.
 
-&nbsp;
-
 Strike :
 
 Le joueur abat les 10 quilles du premier coup. Il a donc fait un strike. Ses points sont comptés ainsi : 1° tour : 10 points, plus la boule suivante (b1) (1° du 2° tour) 7 quilles, plus la boule d'après (b2) (2° du 2° tour) 2 quilles = 19 points. S’il envoie toutes les autres quilles dans la rigole, son score final sera de 19 + 7 + 2 points.
